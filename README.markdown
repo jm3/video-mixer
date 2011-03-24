@@ -1,11 +1,10 @@
-![crazy video mixer](http://img.skitch.com/20071124-bb8n16s3m3cd9cbxmpaikcm6ci.png)
+## The jm3 Video Mixer, AKA "the 8k Ken Burns chaos patch" 
 
-### The jm3 Video Mixer
-### AKA "the 8k Ken Burns chaos patch" 
+![crazy video mixer](https://img.skitch.com/20110324-tqm5pdb2p939pijh7t77ut3j89.jpg)
 
-A live video-mixing environment in Max/MSP + Jitter
+A live video-mixing environment written in Max/MSP + Jitter
 
-### written in Vancouver by John Manoogian III ([@jm3](http://twitter.com/jm3))
+### created in Vancouver by John Manoogian III ([@jm3](http://twitter.com/jm3))
 
 View videos of a live video mix session:
 
