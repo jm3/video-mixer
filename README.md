@@ -6,17 +6,15 @@ A live video-mixing environment written in Max/MSP + Jitter
 
 ### created in Vancouver by John Manoogian III ([@jm3](http://twitter.com/jm3))
 
-View videos of a live video mix session:
-
-![jm3 mixer videos on vimeo](/docs/vimeo-thumb-van-1.jpg?raw=true "Videobending in Vancouver")
-
- * [trippy video mixing](https://vimeo.com/394521) (vancouver)
- * [space-mix on vimeo](https://vimeo.com/394525) (vimeo, good sequence)
- * [live mix session](http://www.vimeo.com/394538) (start 2 minutes in)
-
 Now with Night Mode, for a cleaner performance interface!
 
 ![night mode screenshot](/docs/night-mode.png?raw=true "Night Mode")
+
+View videos of a live video mix session:
+
+[![Videobending in Vancouver - 1](/docs/vimeo-thumb-van-1.jpg?raw=true "Videobending in Vancouver")](https://vimeo.com/394521) (vancouver)
+
+ [![Videobending in Vancouver - 2](/docs/vimeo-thumb-van-2.jpg?raw=true "Videobending in Vancouver - 2")](https://vimeo.com/394525) (vimeo, good sequence)
 
 ## License:
 
